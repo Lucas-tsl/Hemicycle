@@ -55,4 +55,4 @@ Dans le cadre de ce projet, l'outil qui m'accompagne dans la réalisation du cod
 Vidéo de Présentation
 Une vidéo de présentation de la plateforme sera fournie, présentant les fonctionnalités et expliquant les choix techniques en 5 minutes maximum.
 
-Pour toute question ou assistance, veuillez contacter gisseugi.fr.
+Pour toute question ou assistance, veuillez contacter https://gisseugi.fr/.
