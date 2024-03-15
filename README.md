@@ -1,4 +1,5 @@
 Contrôle des accès de l’hémicycle de l’Assemblée Nationale
+
 Ce projet vise à renforcer la sécurité des députés siégeant à l’Assemblée Nationale en fournissant un nouveau badge contenant un QR code. Un sas de sécurité contrôlera l’accès aux zones réservées aux députés via leur QR Code personnel. Pour réaliser cette fonctionnalité, une application mobile sera développée et s’exécutera sur des terminaux fournis par la DGSI.
 
 Objectifs du Projet
